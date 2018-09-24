@@ -5,14 +5,14 @@ Nombre completo autor: Carlos Alberto Cituc Chab
 
 Correo electrónico: carlos.cituc@gmail.com
 
-Requisitos para ejecución:
+-- Requisitos para ejecución --
 
 1.- Tener instalado el JDK.
 
 2.- Tener instalado Netbeans. Esto no es obligatorio, pero brinda una rápida ejecución del programa, sin necesidad de configurar opciones adicionales.
 
 
-Instrucciones de ejecución:
+-- Instrucciones de ejecución --
 
 1.- Clonar o descargar el repositorio en la computadora.
 
@@ -25,7 +25,7 @@ Instrucciones de ejecución:
 5.- El programa se ejecuta en consola y muestra las instrucciones detalladas para su uso.
 
 
-Instrucciones de uso generales:
+-- Instrucciones de uso generales --
 
 1.- Este es un programa en consola.
 
