@@ -3,8 +3,6 @@ Ejercicio 1 - Texto a código morse y código morse a texto
 
 Nombre completo autor: Carlos Alberto Cituc Chab
 
-Correo electrónico: carlos.cituc@gmail.com
-
 -- Requisitos para ejecución --
 
 1.- Tener instalado el JDK.
